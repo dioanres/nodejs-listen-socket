@@ -1,2 +1,2 @@
 # nodejs-listen-socket
-Simple Apps for listen socket that emit from server
+Simple Apps for listen socket has emit from server
