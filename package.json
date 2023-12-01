@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-ws",
+  "version": "1.0.0",
+  "description": "nodejs web socket",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "socket"
+  ],
+  "author": "dioanres",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
+  }
+}
